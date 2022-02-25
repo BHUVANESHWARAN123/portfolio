@@ -6,12 +6,10 @@
     box-sizing: border-box;
     font-family: "Montserrat",sans-serif;
 }
-@media(min-width:800px)
-{
-    html{
-        scroll-behavior: smooth 1s;
-    }
+html{
+    scroll-behavior: smooth 1s;
 }
+
 .home{
     width: 100%;
     height: 100vh;
