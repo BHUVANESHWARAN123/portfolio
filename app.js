@@ -148,7 +148,7 @@ var form = document.getElementById("my-form");
     // simple responses
 
     function getbotresponse(input){
-      if(input == "hello" || input == "hi" || input == "Hello" || input == "Hi"){
+      if(input == "hello" || input == "hi" || input == "Hello" || input == "Hi" || input == "hii" || input == "Hii"){
         return "Hello there!";
       }else if(input == "fine" || input == "nice"  || input == "Good" || input == "Fine" || input == "Nice"  || input == "Good"){
         return "Glad to hear this!";
